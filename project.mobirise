@@ -87,7 +87,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "POSTANOWIENIA OGÓLNE",
           "meta": "",
@@ -107,7 +107,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "ADMINISTRATOR DANYCH",
           "meta": "",
@@ -127,7 +127,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "PLIKI COOKIES",
           "meta": "",
