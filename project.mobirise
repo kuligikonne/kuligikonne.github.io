@@ -401,8 +401,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
+            "imageSize": "52",
+            "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -504,24 +504,24 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-3226-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-3226-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5160cc-1-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5160cc-1-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-3229-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-3229-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5160gg-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5160gg-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-3280-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-3280-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5160bb-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5160bb-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -533,7 +533,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
