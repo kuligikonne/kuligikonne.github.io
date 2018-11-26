@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "kuligikonne-clone",
+    "name": "kuligikonne",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 31,
+    "uniqCompNum": 9,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
