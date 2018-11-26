@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kuligikonne",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -266,11 +266,11 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Kuligi Konne Czarna Góra",
+        "meta_descr": "Zapraszamy na białe szaleństwo przy stacji narciarskiej Czarna Góra. Kuligi konne są najbardziej rozpoznawalną atrakcją regionu.\nSerdecznie zapraszamy!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
