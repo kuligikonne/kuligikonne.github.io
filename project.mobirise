@@ -612,7 +612,7 @@
           "form": {
             "action": "gosiawiklik@o2.pl",
             "alerts": {
-              "success": "Dziękujemy za wypełnienie formularza!"
+              "success": "DZIĘKUJEMY ZA SUBSKRYBOWANIE!"
             },
             "fields": {
               "email": {
