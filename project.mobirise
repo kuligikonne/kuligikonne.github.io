@@ -637,7 +637,7 @@
           "_anchor": "social-buttons1-b",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "20px"
+              "font-size": "16px"
             }
           }
         },
