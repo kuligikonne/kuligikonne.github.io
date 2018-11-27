@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
@@ -610,6 +610,36 @@
           ],
           "_name": "map1",
           "_anchor": "map1-6"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": false,
+            "twitter": false
+          },
+          "text": "PODZIEL SIĘ TĄ STRONĄ!<div><br></div>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-b",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_params": {
