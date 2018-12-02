@@ -22,8 +22,8 @@
     "siteUrl": "https://kuligikonne.github.io/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsText": "google-site-verification: googleef63e3e4fe9eb371.html\n\n\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "polityka.html": {
