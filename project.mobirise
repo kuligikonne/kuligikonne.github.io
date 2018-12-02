@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 23,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
@@ -22,7 +22,7 @@
     "siteUrl": "https://kuligikonne.github.io/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "robotsText": "google-site-verification: googleef63e3e4fe9eb371.html\n\n\n",
+    "robotsText": "czarnagora; czarna gora;\nkuligikonne; kuligikonne czarnagora; atrakcjeczarnagora;\n\n\n",
     "robotsSwitcher": "on"
   },
   "pages": {
@@ -238,7 +238,7 @@
       "settings": {
         "main": true,
         "title": "Kuligi Konne Czarna Góra",
-        "meta_descr": "Zapraszamy na białe szaleństwo przy stacji narciarskiej Czarna Góra. Kuligi konne są najbardziej rozpoznawalną atrakcją regionu.\nSerdecznie zapraszamy!",
+        "meta_descr": "Kuligi konne na Czarnej Górze. Zapraszamy na białe szaleństwo przy stacji narciarskiej Czarna Góra. Kuligi konne są najbardziej rozpoznawalną atrakcją regionu.\nSerdecznie zapraszamy!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
