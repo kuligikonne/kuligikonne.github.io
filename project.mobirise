@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
@@ -22,7 +22,7 @@
     "siteUrl": "https://kuligikonne.github.io/",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "robotsText": "czarnagora; czarna gora;\nkuligikonne; kuligikonne czarnagora; atrakcjeczarnagora;\n\n\n",
+    "robotsText": "google-site-verification: googleef63e3e4fe9eb371.html\n\n",
     "robotsSwitcher": "on"
   },
   "pages": {
@@ -390,14 +390,17 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/img-5160cc-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://youtu.be/MpPEJrqeP-Y",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": "on",
-              "active": true
+              "loop": "on"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -441,68 +444,68 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5162a-1-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5162a-1-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1257x939.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1257x939-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5165a-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5165a-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1257x942.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1257x942-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5169b-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5169b-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-1259x941.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1259x941-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5168-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5168-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1259x941.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1259x941-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5160cc-1-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5160cc-1-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-1257x939.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1257x939-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5160gg-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5160gg-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-1257x939.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1257x939-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5160bb-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5160bb-2000x1334-800x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-1257x939.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1257x939-800x598.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-1257x939.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1257x939-800x598.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-3193-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-3193-2000x1331-800x532.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -670,7 +673,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADRES</strong><br>Czarna Góra<br>Szałas",
+          "text1": "<strong>ADRES</strong><br>FIRMA USŁUGI KONNE KULIGI KRZYSZTOF DUBIK<br>57-500 Bystrzyca Kłodzka <br>Idzików 24/A<br>",
           "text2": "<strong>KONTAKT</strong><br>\nEmail: kyniudubik@o2.pl <br>lub&nbsp;gosiawiklik@o2.pl<br>\nTel.&nbsp;607 594 539 lub 501 018 154<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
