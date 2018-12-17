@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
@@ -598,21 +598,6 @@
           ],
           "_name": "form2",
           "_anchor": "form2-b"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "Idzików\n",
-              "placeId": "ChIJ0T7ghm0DDkcRgJd3VlQjM6s",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-6"
         },
         {
           "_params": {
