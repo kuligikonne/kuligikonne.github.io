@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
@@ -564,20 +564,6 @@
           ],
           "_name": "form1",
           "_anchor": "form1-a"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-g"
         },
         {
           "_params": {
